@@ -8,9 +8,9 @@ This project applies the concept of interfaces in C#. The `IShape` interface dec
 
 ## Shapes Implemented
 
-**Trapezium** — calculates area, perimeter, and an unknown side.
-**Circle** — calculates radius (from diameter), area, and circumference.
-**Nonagon** — calculates area, perimeter, and number of sides.
+1. **Trapezium** — calculates area, perimeter, and an unknown side.
+2. **Circle** — calculates radius (from diameter), area, and circumference.
+3. **Nonagon** — calculates area, perimeter, and number of sides.
 
 ## How to Run
 
